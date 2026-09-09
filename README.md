@@ -4,5 +4,5 @@ Solutions for CSES Problem Set
 (mainly for C++ and CP practice)
 
 ```
-introductory-problems: 10/24
+introductory-problems: 16/24
 ```
