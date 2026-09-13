@@ -2,9 +2,7 @@
 #include <vector>
 using namespace std;
 
-typedef long long ll;
-
-ll solutions = 0;
+int solutions = 0;
 
 void place(int row, vector<string> grid) {
   if (row == 8) {
