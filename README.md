@@ -5,5 +5,6 @@ Solutions for CSES Problem Set
 
 ```
 introductory-problems: 24/24
-sorting-and-searching: 8/35
+sorting-and-searching: 09/35
+graph-algorithms: 01/36
 ```
