@@ -5,7 +5,7 @@ Solutions for CSES Problem Set
 
 ```
 introductory-problems: 24/24
-sorting-and-searching: 09/35
-graph-algorithms: 01/36
+sorting-and-searching: 12/35
+graph-algorithms: 03/36
 range-queries: 01/25
 ```
